@@ -1,8 +1,8 @@
-EEG Signal Classification Project
+EEG Signal Classification Project:
 This project focuses on using a classification algorithm to differentiate between segments of EEG signals that correspond to eye opening and eye closing. 
 The data utilized in this project was obtained from a subject using a 2-electrode EEG system.
 
-Project Overview
+Project Overview:
 In this project, we performed the following steps:
 
 Preprocessing of EEG signals to ensure data quality and remove artifacts.
